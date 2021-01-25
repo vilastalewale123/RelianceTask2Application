@@ -115,8 +115,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         public void run() {
             flag = true;
             //read sensor data after 8ms.
-            int interval = 8;
-            handler.postDelayed(this, interval);
+            handler.postDelayed(this, 8);
         }
     };
 
