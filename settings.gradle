@@ -1,0 +1,3 @@
+include ':aidlorientationlibrary'
+include ':app'
+rootProject.name = "AIDLOrientation"

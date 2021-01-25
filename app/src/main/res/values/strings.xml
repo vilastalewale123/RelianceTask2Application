@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AIDLOrientation</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="orientation">Orientation</string>
+    <string name="phone_orientation">Phone Orientation</string>
+    <string name="phone_orientation_value">Phone Orientation Value</string>
+    <string name="sensor_imu_data">Sensor IMU Data</string>
+</resources>
